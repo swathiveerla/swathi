@@ -12,15 +12,15 @@ class Ideone
 		int a=109;
 		if(a>=0)
 		{
-			System.out.println("positive");
+			System.out.println("Positive");
 		}
 		else if(a<=0)
 		{
-			System.out.println("negativer");
+			System.out.println("Negativer");
 		}
 		else
 		{
-			System.out.println("neither positive or negative");
+			System.out.println("neither Positive or Negative");
 		}
 		
 	}
