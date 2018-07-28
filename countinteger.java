@@ -12,10 +12,10 @@ class Ideone
 		int num,Count=0;
 		Scanner s = new Scanner(System.in);
 		num=s.nextInt();
-		for(int i=1;i<=num;i++)
+		while(num!=0)
 		{
-			num/=10;
-			++Count;
+			num=num/10;
+			Count++;
 		}
 		System.out.println(Count);
 		// your code goes here
