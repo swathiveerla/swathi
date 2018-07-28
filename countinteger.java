@@ -18,6 +18,5 @@ class Ideone
 			Count++;
 		}
 		System.out.println(Count);
-		// your code goes here
-	}
+		}
 }
