@@ -16,6 +16,6 @@ class Ideone
 	    {
 	    	fact =fact*i;
 	    }
-	    System.out.println(fact+" ");
+	    System.out.println(fact+"");
 	}
 }
