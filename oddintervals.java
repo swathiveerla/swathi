@@ -10,9 +10,9 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		Scanner sc=new Scanner(System.in);
-		int m=sc.nextInt();
-		int n=sc.nextInt();
-		for(int i=m+1;i<n;i++)
+		int N=sc.nextInt();
+		int Q=sc.nextInt();
+		for(int i=N+1;i<Q;i++)
 		{
 			if(i%2==0)
 			{  
@@ -25,5 +25,5 @@ class Ideone
 			else
 			  System.out.print(i);
 		}
-            }
+	}
 }
