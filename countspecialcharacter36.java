@@ -21,7 +21,6 @@ class Ideone
 		{
 			count++;
 		}
-	
 	}
 	System.out.println(count);
 }
