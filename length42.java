@@ -13,7 +13,7 @@ class Ideone
 		Scanner s=new Scanner(System.in);
 		st1=s.next();
 		st2=s.next();
-		if(st1.length()>=st2.length())
+		if(st1.length()>st2.length())
 		{
 			System.out.println(st1);
 		}
