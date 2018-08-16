@@ -33,6 +33,6 @@ class Ideone
 			}
 		}
 		System.out.print(min+" ");
-		System.out.print(max+" ");
+		System.out.print(max);
 	}
 }
